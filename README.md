@@ -1,7 +1,3 @@
 # python-basics
 My python tryouts
-Completed ones:
-Housefly
-hexcomb
-Incomplete ones:
-ping pong
+Housefly: A simple game where the objective is to make the housefly catch as many dots as possible. 
